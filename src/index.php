@@ -13,7 +13,8 @@
 
 <body>
     <!-- ここにカレンダーのHTMLを書いてください -->
-    <h1>Calendar</h1><script src="./calender.js"></script>
+    <h1>Calendar</h1>
+    <script src="./calender.js"></script>
 </body>
 <?php ob_end_flush(); ?>
 
