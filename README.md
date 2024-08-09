@@ -2,8 +2,7 @@
 
 ## ハンズオンの流れ
 
-- 1. 本プロジェクトを zip ダウンロードまたは Fork して利用してください
-  - git を使い慣れていない人は zip ダウンロード推奨
+- 1. 本プロジェクトを zip ダウンロードして利用してください
 - 2. zip ファイルを解凍して任意のディレクトリに移動させる
 - 3. ターミナルで php-calendar-handson ディレクトリに移動する
 - 4. `docker-compose up -d`でコンテナを起動
@@ -22,12 +21,7 @@
     - Javascript を書くファイル
   - calender.php
     - php を書くファイル
+  - hint.php
+    - ヒント集    
 - 2. docker-compose.yml
   - docker の定義。最小限の apache:php で動くものを設定
-
-## 任意課題(git 編)
-
-- 1. 自身でカレンダー開発用のリポジトリを github に作成してください
-  - `php-calendar-handson`という名前で、Public リポジトリを作成してください
-  - このリポジトリを Fork または zip ダウンロードして、リポジトリに push してください。
-- 2. 開発を開始する際に、開発用のブランチを作成してください
