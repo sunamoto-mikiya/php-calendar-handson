@@ -17,11 +17,11 @@
     - HTML を記述するファイル
   - stylesheet.css
     - CSS を記述するファイル
-  - calender.js
+  - calendar.js
     - Javascript を書くファイル
-  - calender.php
+  - calendar.php
     - php を書くファイル
   - hint.php
-    - ヒント集    
+    - ヒント集
 - 2. docker-compose.yml
   - docker の定義。最小限の apache:php で動くものを設定

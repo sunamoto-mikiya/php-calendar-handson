@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       }
     });
-
     //気分の削除
     td.oncontextmenu = () => {
       const div = td.querySelector("div");
